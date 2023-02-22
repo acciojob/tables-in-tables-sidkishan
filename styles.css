@@ -1,13 +1,8 @@
 
 table{
 	border:1px solid;
-	
 }
 th,td{
 	border:1px solid;
 	text-align:center;
-}
-.table4 td{
-	background-color:rgb(0, 0, 0);
-	color: white;
 }
